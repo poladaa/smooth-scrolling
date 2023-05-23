@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.bg-image {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(cristofer-maximilian-uQDRDqpYJHI-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  padding: 10rem;
+}
+
+.container h1 {
+  font-size: 5rem;
+  text-align: center;
+  margin: 2rem;
+  color: #f08c00;
+  letter-spacing: 1px;
+}
